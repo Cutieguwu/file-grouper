@@ -1,0 +1,20 @@
+[project]
+name = "file_grouper"
+description = "Simple script that groups files into folders according to common names."
+authors = [
+    {name = "Cutieguwu"}
+]
+
+version = "0.0.1"
+requires-python = ">=3.11"
+dependencies = [
+    "icecream>=2.1"
+]
+
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: POSIX :: Linux",
+    "Natural Language :: English"
+]

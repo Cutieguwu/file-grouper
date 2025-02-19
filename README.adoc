@@ -1,0 +1,7 @@
+:source-highlighter: highlight.js
+:highlightjs-languages: python, rust
+:toc: auto
+
+= *file_grouper*
+
+I messed up making my media server, and needed a simple way to group a mess of files with common names together.
