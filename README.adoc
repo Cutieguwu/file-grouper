@@ -5,3 +5,5 @@
 = *file_grouper*
 
 I messed up making my media server, and needed a simple way to group a mess of files with common names together.
+
+I FINALLY FINISHED A PROJECT!!!
